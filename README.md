@@ -1,4 +1,4 @@
-o# STEMS-GameProject
+STEMS-GameProject
 
 Simple movement/dodging game for STEM class.
 
